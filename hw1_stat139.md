@@ -1,10 +1,5 @@
 ###Stat 139 - HW1
 
-<style type="text/css">
-    ol { list-style-type: upper-alpha; }
-</style>
-
-
 ####Problem 1. 
 For each of the following surveys discuss in 2-3 sentences any possible sources of selection
 bias, specifically, undercoverage or overcoverage. Finally, specify what type of sampling was used.
@@ -41,11 +36,11 @@ external validity?
 think how to subtract out a source of variability in the response.
 
 
-- (a) **study units**: individuals ??
+a. **study units**: individuals ??
     **treatment groups**: Experiment Group 1 (Coppertone receivers), Experiment Group 2 (Banana Boat recievers), Control group (placebo receivers)
     **strata**: Tuesday, Wednesday, Thursday
-- (b) Obtaining samples on three different days is a form of stratified sampling, which takes into account the possibility that groups of people who come on different days may have different characteristics
-- (c) A couple factors that lead to the potential to make causal inferences or inferences about the general population are that: the study units are picked at random as well, the division into treatment groups is random, the random sample is stratified, and the measurement, time of day, and location, are standardized. Because of this first factor, the study has both external and internal validity.
-- (d) Have the same 30 people go to the beach three different days. Because from day to day, the people change as well as the level of sun. 
+b. Obtaining samples on three different days is a form of stratified sampling, which takes into account the possibility that groups of people who come on different days may have different characteristics
+c. A couple factors that lead to the potential to make causal inferences or inferences about the general population are that: the study units are picked at random as well, the division into treatment groups is random, the random sample is stratified, and the measurement, time of day, and location, are standardized. Because of this first factor, the study has both external and internal validity.
+d. Have the same 30 people go to the beach three different days. Because from day to day, the people change as well as the level of sun. 
 
 
