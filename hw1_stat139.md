@@ -1,5 +1,8 @@
 ###Stat 139 - HW1
 
+Jacqueline Martinez
+September 11, 2015
+
 ####Problem 1. 
 a. This is an example of overcoverage. She can't declare the overall mean with just a sample. She just has a sample mean. More importantly, members of larger families have a higher probability of being selected, and would therefore skew the results in the higher direction. Sampling: This is a simple random sample.
 
